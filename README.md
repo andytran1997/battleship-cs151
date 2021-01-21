@@ -1,1 +1,1 @@
-# battleship-cs151
+# battleship game-cs151
